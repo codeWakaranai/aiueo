@@ -1,3 +1,6 @@
 # aiueo
 aiueo
-うっああ、うあ
+<<<<<<< HEAD
+さしすせそ
+=======
+>>>>>>> origin/main
